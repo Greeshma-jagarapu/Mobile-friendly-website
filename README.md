@@ -2,7 +2,6 @@
 Responsive Food Website
 <br>
 This is a simple Food Website designed for desktop-only screens. The main task was to **convert the static desktop layout into a fully responsive design** using
-<br>
 **css media queries**, ensuring a seemless experience on mobile and tablet devices.
 
 ## Features
