@@ -17,7 +17,7 @@ Menu Preview with dishes
 <br>
 About section
 <br>
-Contact Us section\
+Contact Us section
 <br>
 Footer
 
